@@ -1,0 +1,643 @@
+[
+  {
+    "id": 0,
+    "name": "Godly",
+    "url": "https://godly.design",
+    "short": "Galeria de inspiração de sites",
+    "description": "Galeria de sites com direção de arte marcante. Use para explorar composição, tipografia e interações antes de abrir o editor.",
+    "tag": "Inspiração",
+    "image": "previews/0.webp",
+    "imageSource": "https://godly.design/homepage-og.webp",
+    "categories": [
+      "ideia",
+      "landing",
+      "polimento"
+    ]
+  },
+  {
+    "id": 1,
+    "name": "DesignBookmark",
+    "url": "https://designbookmark.com",
+    "short": "Diretório de recursos de design",
+    "description": "Recursos de design reunidos em um só lugar: inspiração, ferramentas e materiais para começar um projeto.",
+    "tag": "Curadoria",
+    "image": "previews/1.png",
+    "imageSource": "https://designbookmark.com/opengraph-image.png?opengraph-image.1y3eb2org22jc.png",
+    "categories": [
+      "ideia",
+      "landing",
+      "polimento"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Refero Styles",
+    "url": "https://styles.refero.design",
+    "short": "Estilos visuais e arquivos DESIGN.md",
+    "description": "Explore estilos de sites e arquivos DESIGN.md para transformar referências em instruções de design.",
+    "tag": "Estilos",
+    "image": "previews/2.png",
+    "imageSource": "https://styles.refero.design/opengraph-image.png",
+    "categories": [
+      "ideia",
+      "prompt",
+      "landing",
+      "polimento"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "getdesign.md",
+    "url": "https://getdesign.md",
+    "short": "Coleção de arquivos DESIGN.md",
+    "description": "Coleção de arquivos DESIGN.md e referências de websites para orientar agentes de código com decisões de tipografia, cores e interface.",
+    "tag": "DESIGN.md",
+    "image": "previews/3.png",
+    "imageSource": "https://getdesign.md/api/og/default?v=2",
+    "categories": [
+      "ideia",
+      "prompt",
+      "landing"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "DesignMD",
+    "url": "https://designmd.me",
+    "short": "Gerador de DESIGN.md com IA",
+    "description": "Gere arquivos DESIGN.md com IA para manter decisões visuais consistentes durante o desenvolvimento.",
+    "tag": "IA",
+    "image": "previews/5.png",
+    "imageSource": "https://designmd.me/opengraph-image?aa6a437669e529a0",
+    "categories": [
+      "prompt",
+      "landing",
+      "polimento"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "DesignMD Supply",
+    "url": "https://designmd.supply",
+    "short": "Guias de estilo a partir de sites",
+    "description": "Encontre arquivos de design em Markdown para dar contexto visual aos seus agentes de código.",
+    "tag": "DESIGN.md",
+    "image": "previews/6-site.png",
+    "imageSource": "https://designmd.supply",
+    "categories": [
+      "ideia",
+      "prompt",
+      "landing"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Hyperbrowser DESIGNMD",
+    "url": "https://design-md.hyperbrowser.ai",
+    "short": "Extração de DESIGN.md por URL",
+    "description": "Extraia um arquivo DESIGN.md de um website a partir da URL, usando Hyperbrowser.",
+    "tag": "DESIGN.md",
+    "image": "previews/7-site.png",
+    "imageSource": "https://design-md.hyperbrowser.ai",
+    "categories": [
+      "prompt",
+      "landing"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "OpenDesign",
+    "url": "https://open-design.ai",
+    "short": "Ferramenta de design com IA",
+    "description": "Ferramenta de design de código aberto com IA para experimentar interfaces e desenvolver direções visuais.",
+    "tag": "Open source",
+    "image": "previews/8.png",
+    "imageSource": "https://open-design.ai/og-homepage-20260911.png",
+    "categories": [
+      "ideia",
+      "prompt",
+      "landing",
+      "ui"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Aura",
+    "url": "https://aura.build",
+    "short": "Construtor de websites com IA",
+    "description": "Construtor de websites com IA para criar uma primeira versão visual e explorar layouts.",
+    "tag": "Builder",
+    "image": "previews/9.jpg",
+    "imageSource": "https://hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/learn-assets/seo-previews/2026-05-22/share-preview.jpg",
+    "categories": [
+      "ideia",
+      "prompt",
+      "landing",
+      "ui"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Neuform",
+    "url": "https://neuform.ai",
+    "short": "Landing pages e templates HTML",
+    "description": "Crie landing pages e remixe templates para acelerar a primeira versão do seu site.",
+    "tag": "Builder",
+    "image": "previews/10.png",
+    "imageSource": "https://neuform.ai/og-home.png",
+    "categories": [
+      "ideia",
+      "prompt",
+      "landing"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Supahero",
+    "url": "https://supahero.io",
+    "short": "Galeria de hero sections",
+    "description": "Biblioteca de hero sections para encontrar estruturas, hierarquias e composições para abrir sua página.",
+    "tag": "Hero",
+    "image": "previews/11-site.png",
+    "imageSource": "https://supahero.io",
+    "categories": [
+      "ideia",
+      "landing"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Navbar Gallery",
+    "url": "https://navbar.gallery",
+    "short": "Menus e barras de navegação",
+    "description": "Exemplos de menus, barras de navegação, dropdowns e sidebars para organizar seu site.",
+    "tag": "Navegação",
+    "image": "previews/12.webp",
+    "imageSource": "https://cdn.prod.website-files.com/65676438ff1c480b81cf0085/65d0d08ee366dcfc3c73aa94_ogimage%20(2).webp",
+    "categories": [
+      "ideia",
+      "landing",
+      "ui"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "CTA Gallery",
+    "url": "https://cta.gallery",
+    "short": "Referências de chamadas para ação",
+    "description": "Galeria de chamadas para ação: composição, texto e hierarquia para seções de conversão.",
+    "tag": "CTA",
+    "image": "previews/13.jpg",
+    "imageSource": "https://framerusercontent.com/images/yXhxFS3RMgsD2U3vLGvsjBaE4Q.jpg",
+    "categories": [
+      "ideia",
+      "landing"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Footer Design",
+    "url": "https://footer.design",
+    "short": "Galeria de rodapés",
+    "description": "Galeria de rodapés para explorar navegação secundária, links, contato e composição.",
+    "tag": "Footer",
+    "image": "previews/14.webp",
+    "imageSource": "https://cdn.prod.website-files.com/64fe0870e6e4f3a42a145c1c/6514c4e3bcde78421b541de9_open-graph.webp",
+    "categories": [
+      "ideia",
+      "landing"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Unsection",
+    "url": "https://unsection.com",
+    "short": "Referências de seções de sites",
+    "description": "Referências de seções de sites para resolver partes específicas de uma landing page.",
+    "tag": "Seções",
+    "image": "previews/15-site.png",
+    "imageSource": "https://unsection.com",
+    "categories": [
+      "ideia",
+      "landing",
+      "ui"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Bento Grids",
+    "url": "https://bentogrids.com",
+    "short": "Layouts em bento grid",
+    "description": "Referências de layouts bento para apresentar funcionalidades, projetos e benefícios.",
+    "tag": "Layouts",
+    "image": "previews/16.png",
+    "imageSource": "https://bentogrids.com/images/og.png",
+    "categories": [
+      "ideia",
+      "landing",
+      "ui"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "VantaUI",
+    "url": "https://www.vantaui.com",
+    "short": "Templates, componentes e Figma",
+    "description": "Templates, componentes, blocos e arquivos Figma pensados para React, Next.js e fluxos com IA.",
+    "tag": "Componentes",
+    "image": "previews/17.webp",
+    "imageSource": "https://www.vantaui.com/og/og-home.webp",
+    "categories": [
+      "ideia",
+      "landing",
+      "ui"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Cue",
+    "url": "https://www.cuedesign.space",
+    "short": "Biblioteca de componentes UI",
+    "description": "Biblioteca de componentes de interface com foco em direção visual e acabamento.",
+    "tag": "Componentes",
+    "image": "previews/18.svg",
+    "imageSource": "https://cuedesign.space/og-image.svg",
+    "categories": [
+      "landing",
+      "ui",
+      "polimento"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "EasyUI",
+    "url": "https://www.easyui.site",
+    "short": "Componentes de interface",
+    "description": "Recursos e componentes de UI para acelerar a construção de interfaces.",
+    "tag": "UI",
+    "image": "previews/19.png",
+    "imageSource": "https://easyui.site/og-image.png",
+    "categories": [
+      "landing",
+      "ui"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "PaceUI",
+    "url": "https://paceui.com",
+    "short": "Componentes para React",
+    "description": "Componentes e recursos para criar interfaces React com um acabamento visual consistente.",
+    "tag": "React",
+    "image": "previews/20.jpg",
+    "imageSource": "https://paceui.com/images/brand/og/default-v2.jpg",
+    "categories": [
+      "landing",
+      "ui"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "TypeUI",
+    "url": "https://typeui.sh",
+    "short": "Recursos de UI para agentes de IA",
+    "description": "Recursos para construir interfaces com agentes de IA, incluindo Codex, Claude e Cursor.",
+    "tag": "IA",
+    "image": "previews/21-site.png",
+    "imageSource": "https://typeui.sh",
+    "categories": [
+      "prompt",
+      "landing",
+      "ui"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "shadcn/ui",
+    "url": "https://ui.shadcn.com",
+    "short": "Componentes acessíveis e personalizáveis",
+    "description": "Componentes acessíveis e personalizáveis que você incorpora ao próprio projeto.",
+    "tag": "Componentes",
+    "image": "previews/22.png",
+    "imageSource": "https://ui.shadcn.com/og?title=The%20Foundation%20for%20your%20Design%20System&description=Composable%2C%20accessible%20components%20with%20thoughtful%20defaults.%20Build%20your%20own%20component%20library%20with%20code%20you%20can%20customize%2C%20extend%2C%20and%20make%20your%20own.",
+    "categories": [
+      "ui",
+      "landing"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Backgrounds Supply",
+    "url": "https://www.backgrounds.supply",
+    "short": "Coleção de fundos e texturas",
+    "description": "Coleção de backgrounds para encontrar texturas e visuais que complementem seu layout.",
+    "tag": "Backgrounds",
+    "image": "previews/23.png",
+    "imageSource": "https://framerusercontent.com/images/SEOWQkPZ6lpanbYiwIAvmtzL2vI.png",
+    "categories": [
+      "ideia",
+      "landing",
+      "polimento"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Design Spells",
+    "url": "https://designspells.com",
+    "short": "Detalhes de UI e microinterações",
+    "description": "Curadoria de detalhes de interface, microinterações e soluções visuais surpreendentes.",
+    "tag": "Detalhes",
+    "image": "previews/24-site.png",
+    "imageSource": "https://designspells.com",
+    "categories": [
+      "ideia",
+      "polimento",
+      "motion"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "404s Design",
+    "url": "https://404s.design",
+    "short": "Inspiração para páginas 404",
+    "description": "Referência enviada para páginas 404. O site não respondeu na revisão; o link foi preservado.",
+    "tag": "404",
+    "image": "previews/25.webp",
+    "imageSource": "https://cdn.prod.website-files.com/65ba70a4bb6f912baf009423/6899c6b37147b1d3587301c5_2533.webp",
+    "categories": [
+      "ideia",
+      "polimento"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Lucide",
+    "url": "https://lucide.dev",
+    "short": "Biblioteca de ícones",
+    "description": "Biblioteca de ícones de código aberto com opções para diferentes frameworks.",
+    "tag": "Ícones",
+    "image": "previews/26.png",
+    "imageSource": "https://lucide.dev/og.png",
+    "categories": [
+      "ui",
+      "polimento"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Google Fonts",
+    "url": "https://fonts.google.com",
+    "short": "Catálogo de fontes",
+    "description": "Explore famílias tipográficas, compare estilos e escolha fontes para a interface.",
+    "tag": "Tipografia",
+    "image": "previews/27.png",
+    "imageSource": "https://www.gstatic.com/images/icons/material/apps/fonts/1x/catalog/v5/opengraph_color.png",
+    "categories": [
+      "landing",
+      "polimento"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Coolors",
+    "url": "https://coolors.co",
+    "short": "Gerador de paletas de cores",
+    "description": "Ferramenta de paletas de cores. Abra para explorar combinações e ajustar sua direção visual.",
+    "tag": "Cores",
+    "image": "previews/28.png",
+    "imageSource": "https://coolors.co/assets/img/og_image.png",
+    "categories": [
+      "ideia",
+      "landing",
+      "polimento"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Transitions.dev",
+    "url": "https://transitions.dev",
+    "short": "Transições de UI para agentes de IA",
+    "description": "Referências de transições de UI voltadas a agentes de IA para orientar a implementação de animações.",
+    "tag": "Transições",
+    "image": "previews/29.jpg",
+    "imageSource": "https://transitions.dev/assets/og-main.jpg",
+    "categories": [
+      "prompt",
+      "polimento",
+      "motion"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "60fps",
+    "url": "https://60fps.design",
+    "short": "Animações de aplicativos e sites",
+    "description": "Inspiração de animações e interações em aplicativos mobile e web.",
+    "tag": "Inspiração",
+    "image": "previews/30.png",
+    "imageSource": "https://framerusercontent.com/images/ICYS2f0rsJ9iOphXyUh94ULRS8Y.gif",
+    "categories": [
+      "ideia",
+      "polimento",
+      "motion"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Loading.dev",
+    "url": "https://loading.dev",
+    "short": "Referências de carregamento",
+    "description": "Referências de loading para trabalhar estados de carregamento e feedback visual.",
+    "tag": "Loading",
+    "image": "previews/31.png",
+    "imageSource": "https://ru2qm1zsj1gavqlm.public.blob.vercel-storage.com/loading-og-image.png",
+    "categories": [
+      "ui",
+      "polimento",
+      "motion"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Evil Buttons",
+    "url": "https://www.evilbuttons.com",
+    "short": "Botões animados com Motion",
+    "description": "Componentes shadcn/ui animados com Motion para deixar interações mais expressivas.",
+    "tag": "Botões",
+    "image": "previews/32.png",
+    "imageSource": "https://evilbuttons.com/og-image.png",
+    "categories": [
+      "ui",
+      "landing",
+      "polimento",
+      "motion"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Motion",
+    "url": "https://motion.dev",
+    "short": "Animações em JavaScript e React",
+    "description": "Biblioteca para animar elementos, gestos, transições de layout e interações na web.",
+    "tag": "Biblioteca",
+    "image": "previews/33.png",
+    "imageSource": "https://images.motion.dev/og/fresh/v1/site/home-3jhn8b0abpu66.png",
+    "categories": [
+      "ui",
+      "polimento",
+      "motion"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "GSAP",
+    "url": "https://gsap.com",
+    "short": "Timelines e animações de scroll",
+    "description": "Ferramentas de animação para sequências, timelines e experiências ligadas ao scroll.",
+    "tag": "Biblioteca",
+    "image": "previews/34.png",
+    "imageSource": "https://gsap.com/GSAP-share-image.png",
+    "categories": [
+      "polimento",
+      "motion"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Playwright",
+    "url": "https://playwright.dev",
+    "short": "Testes de ponta a ponta",
+    "description": "Automatize testes de ponta a ponta para verificar se os caminhos importantes do produto funcionam.",
+    "tag": "Testes",
+    "image": "previews/35.jpg",
+    "imageSource": "https://repository-images.githubusercontent.com/221981891/8c5c6942-c91f-4df1-825f-4cf474056bd7",
+    "categories": [
+      "qualidade"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "PageSpeed Insights",
+    "url": "https://pagespeed.web.dev",
+    "short": "Análise de performance web",
+    "description": "Analise performance e oportunidades de melhoria com relatórios de Lighthouse e dados disponíveis de uso real.",
+    "tag": "Performance",
+    "image": "previews/36-site.png",
+    "imageSource": "https://pagespeed.web.dev",
+    "categories": [
+      "qualidade",
+      "landing",
+      "polimento"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "GitHub",
+    "url": "https://github.com",
+    "short": "Repositórios e automação",
+    "description": "Repositórios, revisão de código e automações para acompanhar e entregar mudanças.",
+    "tag": "Código",
+    "image": "previews/37.png",
+    "imageSource": "https://images.ctfassets.net/8aevphvgewt8/4pe4eOtUJ0ARpZRE4fNekf/f52b1f9c52f059a33170229883731ed0/GH-Homepage-Universe-img.png",
+    "categories": [
+      "deploy",
+      "startup"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Cloudflare",
+    "url": "https://www.cloudflare.com",
+    "short": "DNS, CDN e Cloudflare Workers",
+    "description": "DNS, CDN, proteção e plataforma de desenvolvimento com Workers para colocar projetos no ar.",
+    "tag": "Infra",
+    "image": "previews/38.png",
+    "imageSource": "https://www.cloudflare.com/preview.png",
+    "categories": [
+      "deploy",
+      "startup"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Vercel",
+    "url": "https://vercel.com",
+    "short": "Hospedagem e previews de deploy",
+    "description": "Plataforma para hospedar aplicações web e gerar previews de mudanças no projeto.",
+    "tag": "Hosting",
+    "image": "previews/39.png",
+    "imageSource": "https://lishhsx6kmthaacj.public.blob.vercel-storage.com/og-home-not-x.png",
+    "categories": [
+      "deploy",
+      "startup"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Supabase",
+    "url": "https://supabase.com",
+    "short": "Postgres, autenticação e storage",
+    "description": "Postgres, autenticação, armazenamento e APIs para construir a base do seu aplicativo.",
+    "tag": "Backend",
+    "image": "previews/40.png",
+    "imageSource": "https://supabase.com/images/og/supabase-og.png",
+    "categories": [
+      "deploy",
+      "startup"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Resend",
+    "url": "https://resend.com",
+    "short": "API de e-mails transacionais",
+    "description": "API de e-mail para confirmações, convites, notificações e outros fluxos do produto.",
+    "tag": "E-mail",
+    "image": "previews/41.jpg",
+    "imageSource": "https://resend.com/static/cover.jpg",
+    "categories": [
+      "startup"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Sentry",
+    "url": "https://sentry.io",
+    "short": "Monitoramento de erros",
+    "description": "Monitoramento de erros e desempenho para investigar problemas que afetam seus usuários.",
+    "tag": "Observabilidade",
+    "image": "previews/42.webp",
+    "imageSource": "https://sentry.io/_astro/home-hero-meta.DJDejDMD.webp",
+    "categories": [
+      "qualidade",
+      "startup"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "PostHog",
+    "url": "https://posthog.com",
+    "short": "Analytics e gravações de sessão",
+    "description": "Analytics de produto, gravações de sessão e experimentos para orientar melhorias.",
+    "tag": "Analytics",
+    "image": "previews/43.png",
+    "imageSource": "https://posthog.com/images/og/default.png",
+    "categories": [
+      "qualidade",
+      "startup"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Stripe",
+    "url": "https://stripe.com",
+    "short": "Pagamentos e assinaturas",
+    "description": "Infraestrutura de pagamentos e assinaturas para monetizar seu produto.",
+    "tag": "Pagamentos",
+    "image": "previews/44.jpg",
+    "imageSource": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/media/stripe.37119086.jpg",
+    "categories": [
+      "startup"
+    ]
+  }
+]
